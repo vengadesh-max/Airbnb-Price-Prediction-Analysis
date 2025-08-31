@@ -1,8 +1,8 @@
-# 🏠 Airbnb Price Prediction App
+# Airbnb Price Prediction App
 
 A Streamlit web application for analyzing Airbnb data and predicting property prices using machine learning.
 
-## 🚀 Quick Start
+##  To start
 
 ### 1. Navigate to Project Directory
 
