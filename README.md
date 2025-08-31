@@ -91,5 +91,3 @@ If the app doesn't start:
 ---
 
 **to start the app?** Just run `streamlit run app.py` in the project directory!
-
-# Airbnb-Price-Analysis-Prediction
