@@ -28,7 +28,7 @@ The app will open automatically in your browser at **http://localhost:8501**
 
 When you run the app, you'll see this clean, interactive interface:
 
-![Airbnb Price Prediction App](app_screenshot.png)
+![Airbnb Price Prediction App](<screenshot(187).png>)
 
 **Note**: To add the actual screenshot:
 
